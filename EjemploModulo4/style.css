@@ -1,0 +1,32 @@
+body{
+   background-color: yellow;
+}
+img{
+    margin:auto;
+    width: 15%;
+    height:15%;
+    display: block
+}
+
+form{
+    background-color: black;
+    width:30%;
+    border: 1px solid #effe49;
+    margin: 0 auto;
+    padding: 10px;
+}
+label{
+    font-size: 12px;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+input{
+    margin-bottom:20px;
+    width: 100%;  
+}
+input[type="submit"]{
+    margin-bottom:0;
+    background: yellow;
+    color:black;
+    border:none;
+}
